@@ -1,2 +1,6 @@
 sql commands
 sql commands: SELECT * FROM TABLE_NAME , SHOW DATABASES , USE DATABASE_NAME 
+
+
+sudo MySQL -u root MySQL
+sudo postgres -u root -p ***** plsql
