@@ -7,4 +7,11 @@ date %d
 cd
 sed
 awk
-chown  chmod
+chown  chmod a+rwx file_name  
+cat 
+echo "">file name for writing
+echo "">>file name for append
+touch
+mkdir
+rm -r dirname
+rm filename
