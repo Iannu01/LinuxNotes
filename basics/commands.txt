@@ -1,0 +1,10 @@
+Linux commands:
+
+pwd
+ls -ltr
+date 
+date %d 
+cd
+sed
+awk
+chown  chmod
